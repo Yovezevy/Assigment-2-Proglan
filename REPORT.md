@@ -36,23 +36,5 @@ make clean : Membersihkan file executable hasil kompilasi.
 Contoh Output Program
 Berikut adalah hasil eksekusi dari program SIM Akademik di mana terdapat instansiasi dua objek mahasiswa dan demonstrasi perubahan (update) nilai IPK menggunakan method setter:
 
-Plaintext
-=== SIM Akademik Sederhana ===
-
-Nama       : Budiono Siregar
-NRP        : 5022123456
-Departemen : Teknik Elektro
-IPK        : 3.65
-------------------------------
-Nama       : Sapiderman
-NRP        : 5022123457
-Departemen : Teknik Komputer
-IPK        : 3.8
-------------------------------
-Melakukan update IPK Budi...
-
-Nama       : Budiono Siregar
-NRP        : 5022123456
-Departemen : Teknik Elektro
-IPK        : 3.75
+![Screenshot Hasil Terminal](bukti_compile.png)
 ------------------------------
